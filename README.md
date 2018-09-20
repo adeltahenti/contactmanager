@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Created by Adel Tahenti
+Created by Adel Tahenti on 20th September 2018
 
 Deployed in Github Pages 
 <a href="https://adeltahenti.github.io/contactmanager/" target="_blank">Contact Manager</a>
